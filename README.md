@@ -1,4 +1,4 @@
-# FUD_PAYLOAD
-#Edit host and port
-#compile with pyinstaller
-#pyinstaller --noconsole --onefile payload.py
+# FUD_PAYLOAD<br />
+Edit host and port<br />
+compile with pyinstaller<br />
+pyinstaller --noconsole --onefile payload.py<br />
