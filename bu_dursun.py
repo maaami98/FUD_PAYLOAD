@@ -39,7 +39,7 @@ def baglan():
     except:
         flag=False
         time.sleep(5)
-        print ("siktir et")
+        print ("--")
 
 flag=False
 s=socket.socket(socket.AF_INET,socket.SOCK_STREAM)
